@@ -425,7 +425,7 @@ function daily () {
         $datetext = date("d/m G:i", $date_deb) . " au " . date("d/m G:i", $date_fin);
 
         $seuils = array (
-            'min' => $plotlines_min,
+            //'min' => $plotlines_min,
             'max' => $plotlines_max,
         );
 
