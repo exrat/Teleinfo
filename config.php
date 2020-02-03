@@ -119,7 +119,8 @@ $teleinfo["COULEURS"] = array(
     "HN"   => "#2f7ed8",
     "HPM"  => "#c42525",
     "I"    => "#0000FF",  // Intensité
-    "I1"   => "#C8C8FF",  // Intensité Phase 1
+    "I1"   => "#8C00FF",  // Intensité Phase 1
+    // "I1"   => "#C8C8FF",  // Intensité Phase 1
     "I2"   => "#7F7FFF",  // Intensité Phase 2
     "I3"   => "#0000FF"   // Intensité Phase 3
 );
